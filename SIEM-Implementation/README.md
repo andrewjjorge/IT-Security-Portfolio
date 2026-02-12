@@ -32,7 +32,6 @@ To ensure a secure and isolated environment for testing malware and attacks, I c
 ### Dashboard Verification
 *Successfully accessed the Wazuh web interface and confirmed the "Health Check" status of all core services (Indexer, Manager, API).*
 
-> **[Dashboard Screenshot Here]**
 > *![Wazuh Dashboard](./dashboard.png)*
 > *(Note: This confirms the active status of the SIEM manager).*
 
