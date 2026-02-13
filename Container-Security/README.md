@@ -29,7 +29,6 @@ To validate the monitoring configuration, I executed a **"Red Team"** simulation
 * **The Detection:** Wazuh's Analysis Engine correlated multiple failed authentication events within a short time window.
 * **The Alert:** Triggered **Rule ID 5712** (SSHD authentication failed) and visualized the spike in login attempts on the dashboard.
 
-> **[Attack Visualization Here]**
 > *![Brute Force Detection Graph](./attack-detection.png)*
 > *(Figure: Wazuh dashboard highlighting the spike in failed authentication attempts during the simulation).*
 
