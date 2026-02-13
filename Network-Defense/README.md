@@ -33,7 +33,6 @@ Snort successfully identified the scanning behavior by matching the traffic agai
 * **ET SCAN Potential VNC Scan** (Port 5800-5900)
 * **ET SCAN Suspicious inbound to PostgreSQL** (Port 5432)
 
-> **[IDS Verification Screenshot]**
 > *![Snort Alert Logs](./snort-alerts.png)*
 > *(Figure: Snort "Alerts" tab identifying Nmap service probes targeting database and remote access ports).*
 
