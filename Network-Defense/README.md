@@ -30,7 +30,7 @@ Snort successfully identified the scanning behavior by matching the traffic agai
 
 **Captured Alerts:**
 * **ET SCAN Suspicious inbound to MSSQL** (Port 1433)
-* **ET SCAN Potential VNC Scan** (Port 5800-5900)
+* **ET SCAN Potential VNC Scan** (Port 5800-5820)
 * **ET SCAN Suspicious inbound to PostgreSQL** (Port 5432)
 
 > *![Snort Alert Logs](./snort-alerts.png)*
