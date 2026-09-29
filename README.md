@@ -1,6 +1,6 @@
 # 🛡️ IT Security Operations Portfolio
 
-**Role:** Aspiring SOC Analyst | **Focus:** Blue Team Operations, SIEM Architecture, & Network Defense
+**Role:** Aspiring Sysadmin, SOC Analyst | **Focus:** Infrastructure, Blue Team Operations, SIEM Architecture & Network Defense
 
 **Author:** Andrew Jorge (Former Genetec IT Support | Dawson College Cybersecurity Student)
 
